@@ -398,7 +398,8 @@ body{
     border-radius: 20px;
     background-color: #8EA1E1;
     color: white;
-padding: 9px;}
+    padding: 9px;
+}
 
 .icon-button.register:hover{
     color: #abbefb;
