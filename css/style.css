@@ -210,6 +210,10 @@ body{
     height: 200px;
 }
 
+.wave.bottom{
+    transform: rotate(180deg);
+}
+
 /* !Sezione 3 */
 
 .main.section3{
